@@ -1,1 +1,89 @@
-{"items":[{"caption":"Stealth mode: ACTIVATED 🥷🐸 This little ninja frog moves so quietly, even the fireflies didn't hear him! #FrogFarm #CuteFrogs #FrogLife","file":"content/media/frog-img-2026-10-11-01.png","ready":true,"type":"image"},{"caption":"Which frog job is the cutest? 🐸 Chef vs Farmer vs Lifeguard — drop your vote in the comments! 👇 #FrogFarm #CuteFrogs #FrogLife","ready":true,"type":"text"},{"caption":"Fresh out of the oven! 🍞🐸 Our frog baker's lily-pad loaf is almost too cute to eat... almost. #FrogFarm #CuteFrogs #FrogLife","file":"content/media/frog-img-2026-10-11-02.png","ready":true,"type":"image"},{"caption":"POV: Your frog roommate just finished his shift at the bakery and brought home warm bread 🍞🐸 Who wants a slice? #FrogFarm #CuteFrogs #FrogLife","ready":true,"type":"text"},{"caption":"Special delivery! 💌🐸 No letter too big, no pond too far for our frog mailman. #FrogFarm #CuteFrogs #FrogLife","file":"content/media/frog-img-2026-10-11-03.png","ready":true,"type":"image"},{"caption":"Tag someone who hops through life as gracefully as this frog 🐸💚 #FrogFarm #CuteFrogs #FrogLife","ready":true,"type":"text"},{"caption":"Building the pond of dreams, one lily pad at a time 🏗️🐸 Hard hats on, cuteness up! #FrogFarm #CuteFrogs #FrogLife","file":"content/media/frog-img-2026-10-11-04.png","ready":true,"type":"image"},{"caption":"If frogs had dream jobs, which one would yours pick? 🐸👮 Chef? Mailman? Ninja? Comment below! 👇 #FrogFarm #CuteFrogs #FrogLife","ready":true,"type":"text"},{"caption":"Abracadabra! ✨🐸 Our wizard frog meant to conjure a feast... but glitter counts, right? #FrogFarm #CuteFrogs #FrogLife","file":"content/media/frog-img-2026-10-11-05.png","ready":true,"type":"image"},{"caption":"Monday mood: tiny wizard frog casting 'get stuff done' spells ✨🐸 What's your spell for today? #FrogFarm #CuteFrogs #FrogLife","ready":true,"type":"text"}]}
+{
+  "items": [
+    {
+      "type": "video",
+      "file": "content/media/reel-firefighter.mp4",
+      "caption": "When the fire alarm rings, Froggy answers! 🚒🐸 Our tiniest hero is on duty! #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "image",
+      "file": "content/media/img-pilot.jpg",
+      "caption": "Captain Froggy cleared for takeoff! ✈️🐸 Where should he fly next? #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "text",
+      "caption": "Which frog job is the cutest? 🐸 Firefighter 🚒 vs Surfer 🏄 — comment below! 👇 #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "video",
+      "file": "content/media/reel-surfer.mp4",
+      "caption": "Catchin' waves and good vibes! 🏄🐸 Froggy's surf shack is OPEN! #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "image",
+      "file": "content/media/img-doctor.jpg",
+      "caption": "The frog doctor will see you now! 🩺🐸 Prescription: one big smile! #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "text",
+      "caption": "POV: Your roommate is a frog taxi driver and he only accepts payment in flies 🚕🐸😂 #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "video",
+      "file": "content/media/reel-gardener.mp4",
+      "caption": "Froggy's garden is blooming! 🌻🐸 Who wants fresh flowers? #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "image",
+      "file": "content/media/img-librarian.jpg",
+      "caption": "Shhh! Froggy is reading! 📚🐸 What's YOUR favorite book? #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "text",
+      "caption": "Tag a friend who needs a visit from the frog doctor today! 🩺🐸 #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "video",
+      "file": "content/media/reel-taxidriver.mp4",
+      "caption": "Need a ride? Froggy's taxi is the hoppiest in town! 🚕🐸 #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "image",
+      "file": "content/media/img-musician.jpg",
+      "caption": "Rock on, Froggy! 🎸🐸 Tonight's concert is SOLD OUT! #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "text",
+      "caption": "If Froggy could have ANY dream job, which one would YOU hire him for? 👇🐸 #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "video",
+      "file": "content/media/reel-photographer.mp4",
+      "caption": "Say cheese! 📸🐸 Froggy caught the butterflies on camera! #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "image",
+      "file": "content/media/img-scientist.jpg",
+      "caption": "Eureka! Froggy's latest experiment is bubbling! 🧪🐸 #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    },
+    {
+      "type": "text",
+      "caption": "Monday mood: Froggy the librarian shushing everyone 🤫📚🐸 #FrogFarm #CuteFrogs #FrogLife",
+      "ready": true
+    }
+  ]
+}
